@@ -5,12 +5,12 @@
 
 @font-face {
     font-family: "dana";
-    src: url(fonts/Dana-Medium.ttf);
+    src: url(../fonts/Dana-Medium.ttf);
 }
 
 @font-face {
     font-family: "shabnam";
-    src: url(/fonts/Shabnam-FD.woff2)
+    src: url(../fonts/Shabnam-FD.woff2)
 }
 ::-webkit-scrollbar {
     display: none;
